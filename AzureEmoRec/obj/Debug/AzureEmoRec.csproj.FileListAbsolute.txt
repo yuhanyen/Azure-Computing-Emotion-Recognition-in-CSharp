@@ -1,0 +1,12 @@
+C:\Users\函諺\source\repos\AzureEmoRec\AzureEmoRec\bin\Debug\AzureEmoRec.exe.config
+C:\Users\函諺\source\repos\AzureEmoRec\AzureEmoRec\bin\Debug\AzureEmoRec.exe
+C:\Users\函諺\source\repos\AzureEmoRec\AzureEmoRec\bin\Debug\AzureEmoRec.pdb
+C:\Users\函諺\source\repos\AzureEmoRec\AzureEmoRec\obj\Debug\AzureEmoRec.Form1.resources
+C:\Users\函諺\source\repos\AzureEmoRec\AzureEmoRec\obj\Debug\AzureEmoRec.Properties.Resources.resources
+C:\Users\函諺\source\repos\AzureEmoRec\AzureEmoRec\obj\Debug\AzureEmoRec.csproj.GenerateResource.cache
+C:\Users\函諺\source\repos\AzureEmoRec\AzureEmoRec\obj\Debug\AzureEmoRec.csproj.CoreCompileInputs.cache
+C:\Users\函諺\source\repos\AzureEmoRec\AzureEmoRec\obj\Debug\AzureEmoRec.exe
+C:\Users\函諺\source\repos\AzureEmoRec\AzureEmoRec\obj\Debug\AzureEmoRec.pdb
+C:\Users\函諺\source\repos\AzureEmoRec\AzureEmoRec\bin\Debug\Newtonsoft.Json.dll
+C:\Users\函諺\source\repos\AzureEmoRec\AzureEmoRec\obj\Debug\AzureEmoRec.csproj.CopyComplete
+C:\Users\函諺\source\repos\AzureEmoRec\AzureEmoRec\obj\Debug\AzureEmoRec.csprojAssemblyReference.cache
